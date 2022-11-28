@@ -1,2 +1,3 @@
 "Hello Git from local_repo" 
 "Second line adding in local repo" 
+"Adding the third line" 
